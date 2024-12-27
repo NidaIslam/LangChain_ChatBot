@@ -81,7 +81,7 @@ It will provide you the URL and Network address that you need to enter to access
 5. **Conversational Chain**: Uses the RAG framework to retrieve relevant document chunks and generate responses using HuggingFace LLMs.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/NidaIslam/LangChain_ChatBot/tree/main?tab=MIT-1-ov-file).
 
 ## 🙌Acknowledgments
 Special thanks to:
